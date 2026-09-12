@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="162" viewBox="0 0 360 162" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="359" height="161" rx="14" fill="#0F1012" stroke="#FFFFFF" stroke-opacity="0.09"/>
+<text x="24" y="36" font-size="15" font-weight="600" fill="#E8E9EC">Languages</text>
+<rect x="24.0" y="52" width="224.0" height="8" rx="3" fill="#4C8DFF"/>
+<rect x="250.0" y="52" width="58.7" height="8" rx="3" fill="#F0B35B"/>
+<rect x="310.7" y="52" width="14.6" height="8" rx="3" fill="#D8506A"/>
+<rect x="327.3" y="52" width="1.0" height="8" rx="3" fill="#3DB8A5"/>
+<rect x="330.1" y="52" width="1.0" height="8" rx="3" fill="#B58CF0"/>
+<rect x="332.1" y="52" width="1.0" height="8" rx="3" fill="#7CA9F5"/>
+<circle cx="29" cy="84" r="5" fill="#4C8DFF"/>
+<text x="41" y="88" font-size="13" fill="#E8E9EC">C# <tspan fill="#A5A8B1">72.4%</tspan></text>
+<circle cx="195" cy="84" r="5" fill="#F0B35B"/>
+<text x="207" y="88" font-size="13" fill="#E8E9EC">JavaScript <tspan fill="#A5A8B1">19.5%</tspan></text>
+<circle cx="29" cy="108" r="5" fill="#D8506A"/>
+<text x="41" y="112" font-size="13" fill="#E8E9EC">CSS <tspan fill="#A5A8B1">5.3%</tspan></text>
+<circle cx="195" cy="108" r="5" fill="#3DB8A5"/>
+<text x="207" y="112" font-size="13" fill="#E8E9EC">Python <tspan fill="#A5A8B1">0.9%</tspan></text>
+<circle cx="29" cy="132" r="5" fill="#B58CF0"/>
+<text x="41" y="136" font-size="13" fill="#E8E9EC">Inno Setup <tspan fill="#A5A8B1">0.7%</tspan></text>
+<circle cx="195" cy="132" r="5" fill="#7CA9F5"/>
+<text x="207" y="136" font-size="13" fill="#E8E9EC">PowerShell <tspan fill="#A5A8B1">0.6%</tspan></text>
+</svg>

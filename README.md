@@ -34,8 +34,8 @@ I'm a **vibecoder**. I describe what I want, iterate with AI in the loop, test i
 ## Activity
 
 <p>
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lenox3&show_icons=true&hide_border=true&bg_color=0F1012&title_color=E8E9EC&text_color=A5A8B1&icon_color=4C8DFF&hide_title=true&rank_icon=github">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenox3&layout=compact&hide_border=true&bg_color=0F1012&title_color=E8E9EC&text_color=A5A8B1&langs_count=6">
+  <img alt="GitHub stats" src="assets/stats.svg" width="360">
+  <img alt="Languages" src="assets/languages.svg" width="360">
 </p>
 
-<p align="center"><sub>Generated 2026-09-12 06:57 UTC by <a href="scripts/build_readme.py">scripts/build_readme.py</a>.</sub></p>
+<p align="center"><sub>Generated 2026-09-12 06:59 UTC by <a href="scripts/build_readme.py">scripts/build_readme.py</a>.</sub></p>
