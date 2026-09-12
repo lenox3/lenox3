@@ -40,8 +40,8 @@
 
   <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#E8E9EC">
     <text x="190" y="128" font-size="58" font-weight="700" letter-spacing="-1.5">Lenox</text>
-    <text x="190" y="176" font-size="22" font-weight="400" fill="#A5A8B1">Builds Windows tools and FiveM scripts that feel instant.</text>
-    <text x="190" y="226" font-size="15" font-weight="500" fill="#6E727C" letter-spacing="2">C#  ·  .NET  ·  WPF  ·  LUA  ·  JAVASCRIPT  ·  LOCAL AI</text>
+    <text x="190" y="176" font-size="22" font-weight="400" fill="#A5A8B1">Vibecoder. Describe it, iterate with AI, test it for real, ship it.</text>
+    <text x="190" y="226" font-size="15" font-weight="500" fill="#6E727C" letter-spacing="2">WINDOWS TOOLS  ·  FIVEM SCRIPTS  ·  LOCAL AI  ·  FAST BY DEFAULT</text>
   </g>
 
   <rect x="190" y="248" width="420" height="2" rx="1" fill="url(#glow)">
